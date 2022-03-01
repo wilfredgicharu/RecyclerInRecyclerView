@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012221806953",
+    "project_id": "testing-recycler",
+    "storage_bucket": "testing-recycler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012221806953:android:4bd79132e88e68dac8d5f8",
+        "android_client_info": {
+          "package_name": "com.arturofilio.recyclerinrecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012221806953-v6bobas2ebgtgp2t6vaauu26epm9anp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1piBti6qAmWb0hFpCExTKEEMIYaxH0yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012221806953-v6bobas2ebgtgp2t6vaauu26epm9anp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
